@@ -1,0 +1,84 @@
+Script started on 2024-09-30 20:50:08+09:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="155" LINES="62"]
+bash: export: `/mnt/c/windows': not a valid identifier
+[?2004h]0;shino@User-PC: ~/coachtech/test[01;32mshino@User-PC[00m:[01;34m~/coachtech/test[00m$ ll -tr
+[?2004ltotal 32
+-rw-r--r-- 1 shino shino   14 Sep 30 15:48 README.md
+-rw-r--r-- 1 shino shino  537 Sep 30 17:42 index.html
+drwxr-xr-x 7 shino shino 4096 Sep 30 17:44 [0m[01;34m..[0m/
+drwxr-xr-x 2 shino shino 4096 Sep 30 17:45 [01;34mcss[0m/
+drwxr-xr-x 2 shino shino 4096 Sep 30 17:45 [01;34mimg[0m/
+drwxr-xr-x 8 shino shino 4096 Sep 30 17:56 [01;34m.git[0m/
+drwxr-xr-x 5 shino shino 4096 Sep 30 20:50 [01;34m.[0m/
+-rw-r--r-- 1 shino shino  285 Sep 30 20:50 term_record_20240930.log
+[?2004h]0;shino@User-PC: ~/coachtech/test[01;32mshino@User-PC[00m:[01;34m~/coachtech/test[00m$ rail -100f [K[K[K[K[K[K[K[K[K[K[Kcd ..
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech[01;32mshino@User-PC[00m:[01;34m~/coachtech[00m$ ll -tr
+[?2004ltotal 28
+drwxr-xr-x  4 shino shino 4096 Sep  7 09:18 [0m[01;34mhtml-css[0m/
+drwxr-xr-x  5 shino shino 4096 Sep 10 16:35 [01;34mphp[0m/
+drwxr-xr-x 11 shino shino 4096 Sep 26 18:02 [01;34mJapan[0m/
+drwxr-xr-x  2 shino shino 4096 Sep 27 17:07 [01;34moneline-server[0m/
+drwxr-xr-x  7 shino shino 4096 Sep 30 17:44 [01;34m.[0m/
+drwxr-x---  9 shino shino 4096 Sep 30 20:49 [01;34m..[0m/
+drwxr-xr-x  5 shino shino 4096 Sep 30 20:50 [01;34mtest[0m/
+[?2004h]0;shino@User-PC: ~/coachtech[01;32mshino@User-PC[00m:[01;34m~/coachtech[00m$ cd coachtech/php
+[?2004lbash: cd: coachtech/php: No such file or directory
+[?2004h]0;shino@User-PC: ~/coachtech[01;32mshino@User-PC[00m:[01;34m~/coachtech[00m$ cd coachtech/php[1Pphp[1Pphp[1Pphp[1Pphp[1Pphp[1Pphp[1Pphp[1Pphp[1Pphp[1Pphp
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ git clone git@github.com:coachtech-material/php.git
+[?2004lCloning into 'php'...
+remote: Enumerating objects: 9, done.[K
+remote: Counting objects:  11% (1/9)[Kremote: Counting objects:  22% (2/9)[Kremote: Counting objects:  33% (3/9)[Kremote: Counting objects:  44% (4/9)[Kremote: Counting objects:  55% (5/9)[Kremote: Counting objects:  66% (6/9)[Kremote: Counting objects:  77% (7/9)[Kremote: Counting objects:  88% (8/9)[Kremote: Counting objects: 100% (9/9)[Kremote: Counting objects: 100% (9/9), done.[K
+remote: Compressing objects:  12% (1/8)[Kremote: Compressing objects:  25% (2/8)[Kremote: Compressing objects:  37% (3/8)[Kremote: Compressing objects:  50% (4/8)[Kremote: Compressing objects:  62% (5/8)[Kremote: Compressing objects:  75% (6/8)[Kremote: Compressing objects:  87% (7/8)[Kremote: Compressing objects: 100% (8/8)[Kremote: Compressing objects: 100% (8/8), done.[K
+remote: Total 9 (delta 0), reused 9 (delta 0), pack-reused 0 (from 0)[K
+Receiving objects:  11% (1/9)Receiving objects:  22% (2/9)Receiving objects:  33% (3/9)Receiving objects:  44% (4/9)Receiving objects:  55% (5/9)Receiving objects:  66% (6/9)Receiving objects:  77% (7/9)Receiving objects:  88% (8/9)Receiving objects: 100% (9/9)Receiving objects: 100% (9/9), done.
+[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ git remote -v
+[?2004lorigin	git@github.com:coachtech-material/php.git (fetch)
+origin	git@github.com:coachtech-material/php.git (push)
+[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ 
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ 
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ 
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ 
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ git remote set-url origin git@github.com:hshino0561/php.git
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ 
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ 
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ git remote set-url origin git@github.com:hshino0561/php.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-v[Kclone git@github.com:coachtech-material/php.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote -v[K
+[?2004lorigin	git@github.com:hshino0561/php.git (fetch)
+origin	git@github.com:hshino0561/php.git (push)
+[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mphp/[m
+	[31msrc/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ git add .
+[?2004lwarning: adding embedded git repository: php
+[33mhint: You've added another git repository inside your current repository.[m
+[33mhint: Clones of the outer repository will not contain the contents of[m
+[33mhint: the embedded repository and will not know how to obtain it.[m
+[33mhint: If you meant to add a submodule, use:[m
+[33mhint: [m
+[33mhint: 	git submodule add <url> php[m
+[33mhint: [m
+[33mhint: If you added this path by mistake, you can remove it from the[m
+[33mhint: index with:[m
+[33mhint: [m
+[33mhint: 	git rm --cached php[m
+[33mhint: [m
+[33mhint: See "git help submodule" for more information.[m
+[?2004h]0;shino@User-PC: ~/coachtech/php[01;32mshino@User-PC[00m:[01;34m~/coachtech/php[00m$ cd ../[K
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech[01;32mshino@User-PC[00m:[01;34m~/coachtech[00m$ cd test
+[?2004l[?2004h]0;shino@User-PC: ~/coachtech/test[01;32mshino@User-PC[00m:[01;34m~/coachtech/test[00m$ ll -tr
+[?2004ltotal 36
+-rw-r--r-- 1 shino shino   14 Sep 30 15:48 README.md
+-rw-r--r-- 1 shino shino  537 Sep 30 17:42 index.html
+drwxr-xr-x 7 shino shino 4096 Sep 30 17:44 [0m[01;34m..[0m/
+drwxr-xr-x 2 shino shino 4096 Sep 30 17:45 [01;34mcss[0m/
+drwxr-xr-x 2 shino shino 4096 Sep 30 17:45 [01;34mimg[0m/
+drwxr-xr-x 8 shino shino 4096 Sep 30 17:56 [01;34m.git[0m/
+drwxr-xr-x 5 shino shino 4096 Sep 30 20:50 [01;34m.[0m/
+-rw-r--r-- 1 shino shino 6494 Sep 30 21:28 term_record_20240930.log
+[?2004h]0;shino@User-PC: ~/coachtech/test[01;32mshino@User-PC[00m:[01;34m~/coachtech/test[00m$ ll -trcd test[2P..git add .status[1Padd .[K.
+[?2004l
